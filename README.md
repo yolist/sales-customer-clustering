@@ -1,4 +1,4 @@
-# 🛍️ Sales Customer Clustering
+# 🛍️ Customer Segmentation Clustering
 
 This project focuses on customer segmentation by applying various clustering techniques on sales data. The goal is to identify distinct customer groups based on purchasing behavior and professional background to enable targeted marketing strategies.
 
